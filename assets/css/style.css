@@ -1,8 +1,65 @@
-h1 {
-  font-size: 72px;
-  font-family: serif;
+.jumbotron{
+background-color: rgb(14,34,146);
+font-family: ITC Korinna;
+font-size: 36px;
+text-transform: uppercase;
+height: 500px;
 }
-h3 {
-  font-family:serif;
 
+h2{
+  font-size: 36px;
+  font-family: ITC Korinna;
+  text-shadow: 4px 4px black;
+}
+
+.main-button-container{
+  margin-top: 25px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reset-button-container{
+  margin-top: 25px;
+}
+
+body{
+  background-color: rgb(14,34,146);
+  font-family: ITC Korinna;
+  color:white;
+}
+.timer-p{
+  margin-top:40px
+  text-align: center;
+  color: white;
+  font-size: 48px;
+}
+
+.answer:hover{
+  background: black;
+}
+
+.answer{
+  padding-top: 7px;
+  height: 45px;
+  color: white;
+  padding-left: 14px;
+  background-color: rgb(14,34,146);
+  border-radius: 8px;
+}
+
+.img-wrong {
+  margin-top: 10px;
+}
+
+.first-answer{
+  margin-top: 40px;
+}
+.summary-correct{
+  margin-top: 40px;
+}
+.mainArea{
+  font-family: ITC Korinna;
+  font-size: 24px;
+  text-transform: uppercase;
 }
