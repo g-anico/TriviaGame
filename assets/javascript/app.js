@@ -156,7 +156,6 @@ var imageArray = [
 "<img class='center-block img-right' src='assets/images/alex-trebek-wrong.jpg'>",
 "<img class='center-block img-right' src='assets/images/alex-trebek-timesout.jpg'>",
 "<img class='center-block img-right' src='assets/images/gamerecap.png'>",
-
 ];
 
 var correctAnswers = [
